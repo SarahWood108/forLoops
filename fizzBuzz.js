@@ -32,7 +32,7 @@
 // etc...
 
 // ```
-
+function fizzBuzz (){
 for (let i = 1; i <= 100; i++){
     if(i % 3 == 0){
     console.log("Fizz");
@@ -43,3 +43,5 @@ for (let i = 1; i <= 100; i++){
     }
 
 }
+}
+function fizzBuzz ()
